@@ -14,8 +14,6 @@
   <li><h2 style="font-size:20px;">Solve Puzzle: Click the "Solve Puzzle" button to display the solution.<br>
   (Note: This version does not take custom input for puzzles.)</h2></li>
 </ol>
-## Live Demo
-Check out the live version of the project here: [CraveExpress Demo]( https://anvesharaikwar.github.io/Suddoku-Solver/)
 
 <h1 style="font-size:30px;">Technologies Used: </h1>
 <ul>
